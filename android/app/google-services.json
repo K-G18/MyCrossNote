@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026698494114",
+    "project_id": "my-crossnote-project",
+    "storage_bucket": "my-crossnote-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026698494114:android:80cb0fe021975fdafe57fb",
+        "android_client_info": {
+          "package_name": "com.flutterup21.crossnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA53adlQp-0T4BXM_clXb_NJUSkDZwHgFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
